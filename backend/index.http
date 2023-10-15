@@ -1,0 +1,12 @@
+
+POST http://localhost:3005/login
+Content-Type: application/json
+
+{
+    "username": "rahul",
+    "password": "rahul@2021"
+}
+###
+
+GET http://localhost:3004/featured_product
+###
